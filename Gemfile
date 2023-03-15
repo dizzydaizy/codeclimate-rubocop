@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem "activesupport", require: false
+gem "activesupport", ">= 6.1.7.3", require: false
 gem "mry", "~> 0.52.0", require: false
 gem "parser", "~> 2.4.0"
 gem "pry", require: false
